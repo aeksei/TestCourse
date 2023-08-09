@@ -1,0 +1,140 @@
+{
+  "course_version" : 1,
+  "environment" : "unittest",
+  "summary" : "Описание курса",
+  "title" : "Тестовый курс",
+  "programming_language" : "Python",
+  "language" : "en",
+  "course_type" : "Marketplace",
+  "items" : [
+    {
+      "id" : 994436953,
+      "title" : "section1",
+      "items" : [
+        {
+          "id" : 1678130001,
+          "title" : "lesson1",
+          "task_list" : [
+            {
+              "id" : 813254442,
+              "name" : "Theory",
+              "files" : {
+                "main.py" : {
+                  "name" : "main.py",
+                  "placeholders" : [ ],
+                  "is_visible" : true,
+                  "text" : "eferBCJRUpIZ4ayufvWxuWrBZmK6TKQctwAe5ytqCnkeaFcLE2GBr/ZOfCGo7jXN7CS3Dc7t/FfngtrQTwhODbjb1eEDBzavQG7GYUVnoAc="
+                },
+                "__init__.py" : {
+                  "name" : "__init__.py",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+                }
+              },
+              "description_text" : "# Теория\n\n- `task.md` - файл с описанием к заданию с теорией.  \n  Либо **markdown** либо **HTML**.\n- `main.py` - файл, где студенту нужно работать.\n",
+              "description_format" : "MD",
+              "task_type" : "theory"
+            },
+            {
+              "id" : 605163859,
+              "name" : "Output",
+              "files" : {
+                "main.py" : {
+                  "name" : "main.py",
+                  "placeholders" : [ ],
+                  "is_visible" : true,
+                  "text" : "PJ8UJyDaWdFKnRtJFe/tmVQ0S1h8USkngCdqbFC6Ubs="
+                },
+                "__init__.py" : {
+                  "name" : "__init__.py",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+                },
+                "tests/output.txt" : {
+                  "name" : "tests/output.txt",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "JEWimSlJi28jWMFSaB9xezB1kwEvCBb0wDZJb7/K0dU="
+                }
+              },
+              "description_text" : "# Задание с проверкой по выводу в консоль\n\n- `task.md` - файл с описанием к заданию с проверкой по выводу к консоль.  \n  Либо **markdown** либо **HTML**.\n- `main.py` - файл, где студенту нужно работать.\n- `tests/output.txt` - эталонный ответ.\n",
+              "description_format" : "MD",
+              "task_type" : "output"
+            },
+            {
+              "id" : 41189751,
+              "name" : "Edu",
+              "files" : {
+                "task.py" : {
+                  "name" : "task.py",
+                  "placeholders" : [ ],
+                  "is_visible" : true,
+                  "text" : "jYDdsLbeYzADkRhizR9Kg4f8743FJLgxtWiV2TQv+NfMKYMPKnrBXaQOoPKDsI/YmIncpNZsFkqrdcWjZBGuPfspM4p2Hf/Ft11rebtasu0="
+                },
+                "tests/test_task.py" : {
+                  "name" : "tests/test_task.py",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "cZHab8bTw271MYGHyUKGWXrpzMsswvnZ2sp/a3JnMIxt1bYZAPArnnLNY6w2KIMditJLVY7yYIuac7fp77DqLResVgosP8rc/fpIRagtu/RQRH2Re7BoET2lURQ3YSGNS0dcTkt51yReiHPThIVvamsO2sUIpvC5HtSRcFS8Cj1kcJofdqva6glr0kVAVCScG04PjanBuAnhI7VrIlkPPk2G3wVpdnPiAElINS80ZPpQEt47iXnWANK0PfB64B0xYOT1pv6fQ7E2KJnvrdl5Oj3Dx6V5gvBt2ybjpslmAJ9VhKfQvMzfp7b3/vAFLP08ngw1HDL76B2f2JSFBSnoyOy3xY/8SlomtIy+NANfmGfrrmk82E7OMvvDGNlauz8t7JIxgKiwGrL/+QHkuG6Z4tXWUOQFF/lEntdBT17fd2SGAaFtmYQ8N5VsBFfOg4L8780o1LSygvijfk9eBEm22x5GIs6ISoEY7S0PVQMNo6OM4HU/SDBAAeYupCfB3Ug7d8ytB3jCAu0CNMCAhNFzxO+mkF+szLvxJ6c0ZpSlNDOYvgJnJ/80ZCr1ZYZ/zmKL+4Jw7JJTRXiVTxny/EynnddvYoc6/deMvHoIKdN2y6OyMXc+oFP+oqvM89dwOZygG+XRyj7ow7ifxtV9ceXazw=="
+                },
+                "__init__.py" : {
+                  "name" : "__init__.py",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+                },
+                "tests/__init__.py" : {
+                  "name" : "tests/__init__.py",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+                }
+              },
+              "description_text" : "# Задание с проверкой юнит-тестами\n\n- `task.md` - файл с описанием к заданию.  \n  Либо **markdown** либо **HTML**.\n- `main.py` - файл, где студенту нужно работать.\n- `tests/test_task.py` - файл с юнит тестами.\n",
+              "description_format" : "MD",
+              "task_type" : "edu"
+            },
+            {
+              "id" : 515665851,
+              "choiceOptions" : [
+                {
+                  "text" : "Correct",
+                  "status" : "CORRECT"
+                },
+                {
+                  "text" : "Incorrect",
+                  "status" : "INCORRECT"
+                }
+              ],
+              "isMultipleChoice" : false,
+              "name" : "Quiz",
+              "files" : {
+                "main.py" : {
+                  "name" : "main.py",
+                  "placeholders" : [ ],
+                  "is_visible" : true,
+                  "text" : "eferBCJRUpIZ4ayufvWxuWrBZmK6TKQctwAe5ytqCnkeaFcLE2GBr/ZOfCGo7jXN7CS3Dc7t/FfngtrQTwhODbjb1eEDBzavQG7GYUVnoAc="
+                },
+                "__init__.py" : {
+                  "name" : "__init__.py",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+                }
+              },
+              "description_text" : "# Задание с квизом\n\n- `task.md` - файл с описанием к заданию.  \n  Либо **markdown** либо **HTML**.\n- `main.py` - файл, где студенту нужно работать.\n",
+              "description_format" : "MD",
+              "task_type" : "choice"
+            }
+          ],
+          "type" : "lesson"
+        }
+      ],
+      "type" : "section"
+    }
+  ],
+  "version" : 12,
+  "edu_plugin_version" : "2021.9.1-2020.3-2224"
+}

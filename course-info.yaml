@@ -1,0 +1,8 @@
+type: marketplace
+title: Тестовый курс
+language: English
+summary: Описание курса
+programming_language: Python
+environment: unittest
+content:
+- section1
